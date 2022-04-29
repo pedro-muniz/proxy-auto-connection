@@ -1,0 +1,9 @@
+*{margin:0; padding:0; border:none; font-family: Arial; outline:none; box-sizing:border-box; box-sizing:-moz-border-box;}
+.frm-login {padding:20px; width:260px; height:auto; border:1px #7FA93F solid; display:block;margin: 0px auto;}
+.ctn-field {display:block; border:none; margin-bottom:20px;}
+.ctn-field input {width:220px; border-radius:3px; padding:5px; border: 2px #7FA93F solid;}
+.ctn-field input:focus {-webkit-box-shadow: 0 0 2px 2px #7fa93f; box-shadow: 0 0 2px 2px #7fa93f; border-color:#fff;}
+.btn-login {background-color: #7fa93f; border-radius:3px; border:none; font-size: 14px; font-weight: bold; color:#fff; padding:5px 10px; text-transform: uppercase; margin-bottom: 10px;}
+.btn-login:hover {color:#7fa93f; background-color: #a8cde8}
+.frm-login legend {background-color: #7fa93f; color:#fff; display: inline-block; padding:2px; position: relative; top: 0; left:0;}
+
